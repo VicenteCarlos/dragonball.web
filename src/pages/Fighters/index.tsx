@@ -1,0 +1,1 @@
+export const Fighters = () => <h1>Lutador</h1>
